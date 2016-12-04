@@ -1,0 +1,43 @@
+.jumbotron{
+	background-color: #3498db;
+}
+
+body{
+	background-color: #ecf0f1;
+	font-family: Roboto; 
+}
+
+
+.custom-social-links{
+	border-radius: 10px;
+	background-color: #f8f8f8;
+	border: 1px solid transparent;
+  	border-color: #e7e7e7;
+  	min-height: 50px;;
+  	font-size: 18px;
+  	padding-top: 15px
+}
+
+.custom-header{
+	border-radius: 10px;
+	margin-bottom: 20px;
+	background-color: #f8f8f8;
+	border: 1px solid transparent;
+  	border-color: #e7e7e7;
+}
+
+.custom-body{
+	border-radius: 10px;
+	margin-bottom: 20px;
+	background-color: #f8f8f8;
+	border: 1px solid transparent;
+  	border-color: #e7e7e7;
+}
+
+.custom-navbar{
+	border-radius: 10px;
+}
+
+.custom-image-column{
+	padding: 0px;
+}
